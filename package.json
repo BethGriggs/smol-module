@@ -2,6 +2,10 @@
   "name": "@bethany.griggs/smol-module",
   "version": "1.0.1",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BethGriggs/smol-module"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
